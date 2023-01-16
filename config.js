@@ -4,16 +4,16 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'Hello Baby :>',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Chieu dep trai <33',
-    btnNo: 'Không :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Trẫm biết mà ',
-    messDesc: 'Trẫm mệt!',
-    btnAccept: 'AHIHI <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnIntro: 'Hello Babe :>',
+    title: 'Công chúa có iu Babe không !?',
+    desc: 'Hãy trả lời thật lòng',
+    btnYes: 'Khồng, nhìn mà thấy ghét',
+    btnNo: 'Iu babe nhất trên đời!!',
+    question:'HuHu - Tại sao zậy =((',
+    btnReply: 'Gửi',
+    reply: 'Tại vì Babe quá đẹp troai <333333333333333333333333333333333',
+    mess: 'Babe biết mà ',
+    messDesc: 'Iu công chúa <3',
+    btnAccept: 'Măm Măm',
+    messLink: 'https://www.facebook.com/ChieuTruong10111/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
